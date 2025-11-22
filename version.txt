@@ -1,1 +1,1 @@
-0.1
+0.1 | https://github.com/Pretsg/Archeage_auto/releases/download/v0.1/Archeage_auto.zip
