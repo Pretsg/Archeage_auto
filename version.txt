@@ -1,1 +1,1 @@
-0.2.3 | https://github.com/Pretsg/Archeage_auto/releases
+0.2.4 | https://github.com/Pretsg/Archeage_auto/releases
